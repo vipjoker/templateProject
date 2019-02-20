@@ -1,0 +1,2 @@
+include ':CocosLibAndroid'
+project(':CocosLibAndroid').projectDir = new File(settingsDir, 'app')
